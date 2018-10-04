@@ -1,6 +1,6 @@
 # About
 
-This web app let you create, edit, bookmark, view, delete songs.
+This web app let you create, edit, bookmark, view, and delete songs.
 
 ### Frontend technologies
 
